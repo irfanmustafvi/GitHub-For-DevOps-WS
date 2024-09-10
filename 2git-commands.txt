@@ -1,0 +1,20 @@
+git init
+git status
+git status
+git add 1welcome.py
+git status
+git rm --cached 1welcome.py
+git status
+git add 1welcome.py
+git status
+git rm --cached 1welcome.py
+git status
+git add .
+git status
+git commit -m "added first files"
+git status
+git add .
+git status
+git commit -m "commit for tracking"
+git status
+history
