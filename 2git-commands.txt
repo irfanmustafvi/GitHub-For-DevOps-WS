@@ -18,3 +18,15 @@ git status
 git commit -m "commit for tracking"
 git status
 history
+
+git status
+git add .
+git add.
+git status
+git commit -m "git commands add"
+git status
+git remote add origin https://github.com/irfanmustafvi/GitHub-For-DevOps-WS.git
+git remote -v 
+git remote set-url origin >> Add key
+git remote -v
+git push origin master
