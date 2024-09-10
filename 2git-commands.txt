@@ -25,11 +25,12 @@ git add.
 git status
 git commit -m "git commands add"
 
-
-This is github changes on new lines.
 git status
 git remote add origin https://github.com/irfanmustafvi/GitHub-For-DevOps-WS.git
 git remote -v 
 git remote set-url origin >> Add key
 git remote -v
 git push origin master
+
+This is github changes on new lines.
+git pull origin master
