@@ -5,4 +5,4 @@ def hello():
     return "hello friends"
 
 
-hello()
+print()
