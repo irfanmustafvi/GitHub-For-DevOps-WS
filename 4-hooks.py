@@ -1,7 +1,8 @@
-def my_function():
-    a = 5
+def hello():
+    """
+    This is github action code
+    """
+    return "hello friends"
 
-    return a
 
-
-my_function()
+hello()
